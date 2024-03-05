@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://coderjay26.github.io/",
+  "homepage": "https://coderjay26.github.io/coderjay",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
